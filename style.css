@@ -1,39 +1,40 @@
-                    /* Universal Selectors
+                    /* Universal Selectors */
 *{
     color:black;
-} */
+}
 
-                    /* Element Selector
+                    /* Element Selector */
 p{
     color: black;
-} */
+}
 
-                    /* Id Selector
+                    /* Id Selector */
 #header{
     color:black
-} */
+}
 
-                    /* Class Selector
+                    /* Class Selector */
 .header{
     color: black;
-} */
+}
 
-                   /* Child Selector
+                   /* Child Selector */
 li>a{
     color: black;
-} */
+}
 
-                    /* Descendant Selector
+                    /* Descendant Selector */
 p a{
     color: black;
-} */
+}
 
-                    /* Adjacent Sibling Selector
+                    /* Adjacent Sibling Selector */
 h1+p{
     color: black;
-} */
+}
 
-                    /* General Sibling Selector
+                    /* General Sibling Selector */
 h1~p{
     color: black;
-} */
+}
+
