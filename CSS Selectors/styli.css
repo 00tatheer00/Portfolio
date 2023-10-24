@@ -1,0 +1,47 @@
+/* Universal Selector
+
+*{
+    color: red;
+} */
+
+/* Type Selector
+
+span{
+    color: green;
+}
+h1{
+    color: aquamarine;
+}
+div,p{
+    color: blue;
+} */
+
+/* Class selector
+.interest{
+    color: violet;
+} */
+
+/* Identity Selector
+#super{
+    color: aqua;
+} */
+
+/* Child Selector
+span>p{
+    color: azure;
+} */
+
+/* Descendant Selector
+div p{
+    color: black;
+} */
+
+/* Adjacent Sibling Selector
+h2+p{
+    color: whitesmoke;
+} */
+
+/* General Sibling Selector
+h1~p{
+    color: beige;
+} */
